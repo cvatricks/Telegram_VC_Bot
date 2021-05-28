@@ -7,3 +7,4 @@ TgCrypto
 youtube_dl
 aiofiles
 aiohttp
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
